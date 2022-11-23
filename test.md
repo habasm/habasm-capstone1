@@ -1,5 +1,27 @@
 <a name="readme-top"></a>
 
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
+
+Modify this file to match your project and remove sections that don't apply.
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+After you're finished please remove all the comments and instructions!
+-->
+
 <div align="center">
 
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
@@ -35,36 +57,36 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Capstone-1 Green Eneregy] <a name="about-project"></a>
+# 📖 [your_project_name] <a name="about-project"></a>
 
-> In this project, I set up my first capstone project based on green energy. Which has index and about page, which has a certain section to describe about green energy.
+> Describe your project in 1 or 2 sentences.
 
-
-**[Green Energy]** s any energy type that is generated from natural resources, such as sunlight, wind or water. It often comes from renewable energy sources although there are some differences between renewable and green energy.
+**[your_project__name]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> In this project HTML, CSS and JavaScript tech stacks are used to manipulate the page smoothly.
+> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://javascript.info">JavaScript</a></li>
-    <li><a href="https://getbootstrap.com">Bootstrap</a></li>
+    <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
 
@@ -72,11 +94,11 @@
 
 ### Key Features <a name="key-features"></a>
 
-> The application delivers information about the green energy, and it has the following features.
+> Describe between 1-3 key features of the application.
 
-- Mobile first approach and responsive
-- Section management
-- Dynamic javascript data binding
+- **[key_feature_1]**
+- **[key_feature_2]**
+- **[key_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,10 +106,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Links related to the project.
+> Add a link to your deployed project.
 
-- [Live Demo Link](https://habasm.github.io/habasm-capstone1/)
-- [Watch Video demo](https://www.loom.com/share/eb2708584b6347abafcb6e0a04158bd0/)
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,30 +116,83 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running follow these simple steps:
+> Describe how a new developer could make use of your project.
 
-1. Go to the [repository page](https://github.com/habasm/habasm-capstone1/tree/fr-branch).
-2. Press the "Code" button and copy the link.
-3. Clone it using git command `git clone https://github.com/habasm/habasm-capstone1.git`.
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
-- Just copy the contents and utilize the codes.
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-
+<!--
 Example commands:
 
 ```sh
-  cd habasm-capstone1
-  git clone https://github.com/habasm/habasm-capstone1.git
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
 ```
+--->
 
+### Install
 
+Install this project with:
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+### Usage
+
+To run the project, execute the following command:
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+### Run tests
+
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+### Deployment
+
+You can deploy this project using:
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,9 +204,15 @@ Example commands:
 
 👤 **Author1**
 
-- GitHub: [@habasm](https://github.com/habasm)
-- Twitter: [@twitterhandle](https://twitter.com/AsimareHabitamu)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/AsimareHabitamu)
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,11 +220,11 @@ Example commands:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> IN the next, the following features will be added.
+> Describe 1 - 3 features you will add to the project.
 
-- Guest comments section
-- Database integration
-- Layout validations
+- [ ] **[new_feature_1]**
+- [ ] **[new_feature_2]**
+- [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,7 +234,7 @@ Example commands:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/habasm/habasm-capstone1/issues).
+Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -162,7 +242,9 @@ Feel free to check the [issues page](https://github.com/habasm/habasm-capstone1/
 
 ## ⭐️ Show your support <a name="support"></a>
 
-- This project to be successful #Microverse plays great roles. And my family and friends allows me to express my feelings while doing this.
+> Write a message to encourage readers to support your project
+
+If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,7 +252,25 @@ Feel free to check the [issues page](https://github.com/habasm/habasm-capstone1/
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for this project to be real here.
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

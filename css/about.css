@@ -1,0 +1,21 @@
+@media screen and (max-width: 768px) {
+  .aboutFooter {
+    display: none;
+  }
+
+  .mobileFooter {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .aboutFooter {
+    display: block;
+    background: rgb(212, 208, 208);
+    height: 200px;
+  }
+
+  .mobileFooter {
+    display: none;
+  }
+}
